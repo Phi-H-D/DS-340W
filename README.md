@@ -38,4 +38,3 @@ Results are stored in two zip files:
 3. Run either notebook:
    - Use `FinBERT_Modified_LSTM.ipynb` for FinBERT analysis
    - Use `FinBERT_FinGPT_Modified_LSTM.ipynb` for combined model analysis
-4. Results will be generated in the respective zip files
